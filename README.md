@@ -25,7 +25,7 @@
 
 # 2. Data Structure & Initial Checks
 	
- International Trade in Goods's dataset is structured as a large database. For the purpose of analysis, I queried into 6 main tables have 4 ones entitled relationships and 2 are separate for further analysis.
+ International Trade in Goods's dataset is structured as a considerable large database which has 5.5k records. For the purpose of analysis, I queried the dataset into 6 main tables which have 4 ones entitled relationships and 2 ones are separate for further analysis.
 	
 Below are 6 tables: type_of_trade, trade_frequency, indicator_country, type_of_transformation, vietnam, export_vs_import
 <p align="center">
