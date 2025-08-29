@@ -25,9 +25,9 @@
 
 # 2. Data Structure & Initial Checks
 	
- International Trade in Goods's dataset is structured as a considerable large database which has 5.5k records. For the purpose of analysis, I queried the dataset into 6 main tables which have 4 ones entitled relationships and 2 ones are separate for further analysis.
+ International Trade in Goods's dataset is structured as a considerable large database which has 5.5k records. For the purpose of analysis, I queried the dataset into 6 main tables which have 4 ones entitled relationships (type_of_trade, trade_frequency, indicator_country, export_vs_import) and 2 ones (vietnam, type_of_transformation) are separate for further analysis.
 	
-Below are 6 tables: type_of_trade, trade_frequency, indicator_country, type_of_transformation, vietnam, export_vs_import
+Below are 4 ERD tables: type_of_trade, trade_frequency, indicator_country, export_vs_import
 <p align="center">
   <img src="https://github.com/user-attachments/assets/0cf7724d-d391-4136-8ce0-df8ae36ef94c" 
        alt="ERD international trade Dashboard" 
