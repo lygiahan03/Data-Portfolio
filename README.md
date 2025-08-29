@@ -28,8 +28,16 @@
  International Trade in Goods's dataset is structured as a large database. For the purpose of analysis, I queried into 6 main tables have 4 ones entitled relationships and 2 are separate for further analysis.
 	
 Below are 6 tables: type_of_trade, trade_frequency, indicator_country, type_of_transformation, vietnam, export_vs_import
-<img width="944" height="452" alt="image" src="https://github.com/user-attachments/assets/0cf7724d-d391-4136-8ce0-df8ae36ef94c" />
-<img width="4320" height="2430" alt="image" src="https://github.com/user-attachments/assets/40ae7017-6eac-456a-b786-00f0774817f3" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/0cf7724d-d391-4136-8ce0-df8ae36ef94c" 
+       alt="ERD international trade Dashboard" 
+       style="max-width:100%; height:auto;">
+</p>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/983efb73-c693-44df-a21e-838f6144249d" 
+       alt="ERD international trade Dashboard" 
+       style="max-width:100%; height:auto;">
+</p>
 
 # 3. Executive Summary
 	
@@ -60,8 +68,12 @@ Below are 6 tables: type_of_trade, trade_frequency, indicator_country, type_of_t
    
    **• Transformation:** Vietnam’s reliance on CIF (period & YoY) and FOB (period & YoY) arises from limited logistics capacity, capital constraints, and the need for risk management. This highlights the urgency of strengthening domestic logistics, shipping, and insurance sectors to capture more value from global trade.
 
-<img width="2798" height="1436" alt="image" src="https://github.com/user-attachments/assets/2670e5d7-c75e-46db-af77-1e23ef5034b6" />
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/2f564f02-774c-47c8-a4be-ab900823027f"
+       alt="Dashboard" 
+       style="max-width:100%; height:auto;">
+</p>
 
 
 # 4. Insights 
@@ -81,8 +93,11 @@ Below are 6 tables: type_of_trade, trade_frequency, indicator_country, type_of_t
 	
  Imports and exports of goods represent the most widely adopted trade forms globally, with 92 countries actively participating in both price deflator and volume index measures. The relative symmetry in these participation levels indicates a well-functioning demand–supply mechanism where exporters can effectively match buyers at competitive prices. For businesses, this reflects reduced market distortion risk, ensuring greater predictability for trade planning, contract pricing, and supply chain stability.
 
-<img width="552" height="484" alt="image" src="https://github.com/user-attachments/assets/056de79d-eea9-4fe3-a92f-8b355fe5d66f" />
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/056de79d-eea9-4fe3-a92f-8b355fe5d66f"
+       alt="World Trade - Type of Trade" 
+       style="max-width:100%; height:auto;">
+</p>
 	
  **• World Transformation**
 	
@@ -92,8 +107,12 @@ Below are 6 tables: type_of_trade, trade_frequency, indicator_country, type_of_t
 	- The most common traded categories include imports of goods, volume index, and price deflator, primarily under CIF arrangements.
 	- The prevalence of CIF and FOB terms, across both period-over-period and year-over-year changes, demonstrates the strong reliance on standardized shipping frameworks. From a business perspective, this underlines the importance of risk allocation strategies in international contracts and the need for enterprises to strengthen capabilities in managing logistics costs and currency volatility tied to CIF and FOB contracts.
 
-<img width="1666" height="626" alt="image" src="https://github.com/user-attachments/assets/20cb6031-116b-450e-bc54-10464aafef06" />
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/20cb6031-116b-450e-bc54-10464aafef06"
+       alt="World Trade - World Transformation" 
+       style="max-width:100%; height:auto;">
+</p>
+	
 
 **B. Vietnam Trade**
 	
@@ -101,7 +120,11 @@ Below are 6 tables: type_of_trade, trade_frequency, indicator_country, type_of_t
 	
  Vietnam’s trade structure is characterized by strong engagement in **exports of goods (price deflator)** and **imports of goods (price deflator)**. This reflects Vietnam’s positioning as both an export-driven economy and a significant importer of raw materials, technology, and intermediate goods essential for domestic production.
 
-<img width="586" height="376" alt="image" src="https://github.com/user-attachments/assets/a4de5eec-0053-4c7c-a15c-6ccdc41cd233" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/a4de5eec-0053-4c7c-a15c-6ccdc41cd233"
+       alt="Vietnam Trade - Type of Trade" 
+       style="max-width:100%; height:auto;">
+</p>
 
  **• Index Type**
 	
@@ -111,7 +134,11 @@ Below are 6 tables: type_of_trade, trade_frequency, indicator_country, type_of_t
 		
   ○ For **importers,** the exposure is even more critical. Since Vietnam imports significant volumes of raw materials, energy, and intermediate goods for domestic production, any increase in world prices immediately inflates input costs. This can compress profit margins, raise production costs for manufacturers, and ultimately affect domestic consumer prices. Importers therefore must adopt hedging strategies, supplier diversification, and long-term contracts to reduce exposure to volatile global markets.
 
-<img width="628" height="452" alt="image" src="https://github.com/user-attachments/assets/a7f90653-a9fc-49d5-84e9-819a82578c6d" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/a7f90653-a9fc-49d5-84e9-819a82578c6d"
+       alt="Vietnam Trade - Index Type" 
+       style="max-width:100%; height:auto;">
+</p>
 
   
 	From a business impact perspective, this structure means that both ends of Vietnam’s trade ecosystem are highly vulnerable to external shocks—making trade resilience and financial risk management central to sustaining competitiveness.
@@ -131,8 +158,11 @@ Vietnam’s top four transportation and pricing frameworks — CIF (period and Y
 	• Enables exporters to limit exposure to unpredictable freight and insurance costs.
 	• Frees up capital and consolidates their focus on production, not logistics.
 
-<img width="1708" height="1118" alt="image" src="https://github.com/user-attachments/assets/e26dc204-e391-4d62-9f79-31ef0801f1a3" />
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/e26dc204-e391-4d62-9f79-31ef0801f1a3"
+       alt="Vietnam Trade - Transformation" 
+       style="max-width:100%; height:auto;">
+</p>
 
 This suggests that Vietnam balances both seller-and-buyer responsible shipping terms more evenly, reflecting the country’s transitional role between manufacturing-driven exports and import reliance for production inputs. For businesses, this creates opportunities in logistics services, supply chain financing, and risk management tailored to Vietnamese trade flows.
 
