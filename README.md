@@ -1,4 +1,4 @@
-# International Trade Overview and Vietnam Outlook
+# Project: International Trade Overview and Vietnam Outlook
 # 1. Project Background
 	
  The International Trade in Goods (ITG) dataset, published by the International Monetary Fund (IMF) in August 2025, provides a comprehensive view of global trade flows.
