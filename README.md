@@ -140,8 +140,7 @@ Below are 6 tables: type_of_trade, trade_frequency, indicator_country, type_of_t
        style="max-width:100%; height:auto;">
 </p>
 
-  
-	From a business impact perspective, this structure means that both ends of Vietnam’s trade ecosystem are highly vulnerable to external shocks—making trade resilience and financial risk management central to sustaining competitiveness.
+From a business impact perspective, this structure means that both ends of Vietnam’s trade ecosystem are highly vulnerable to external shocks—making trade resilience and financial risk management central to sustaining competitiveness.
 
 
 **• Transformation**
