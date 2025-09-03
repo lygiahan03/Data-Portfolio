@@ -17,11 +17,12 @@
 	
  **Key deliverables include:**
 	
-   • An interactive Tableau dashboard for visualization and exploration: [https://public.tableau.com/app/profile/gia.han.ly/viz/ITQ1/Dashboard]
-		
-   • SQL queries demonstrating trade measurement and deep-dive analysis: [https://lygiahan03.github.io/ITQ-Project-Code/]
-  
-   • Python scripts for robust data cleaning and preparation: [https://lygiahan03.github.io/ITQ-Project-Code/]
+  • An interactive Tableau dashboard for visualization and exploration: [View Dashboard](https://public.tableau.com/app/profile/gia.han.ly/viz/ITQ1/Dashboard)
+
+  • SQL queries demonstrating trade measurement and deep-dive analysis: [View SQL Code](https://lygiahan03.github.io/ITQ-Project-Code/)
+
+  • Python scripts for robust data cleaning and preparation: [View Python Scripts](https://lygiahan03.github.io/ITQ-Project-Code/)
+
 
 # 2. Data Structure & Initial Checks
 	
